@@ -1,0 +1,21 @@
+<RCC>
+    <qresource prefix="/fonts">
+        <file>fonts/Annie_Use_Your_Telescope/AnnieUseYourTelescope-Regular.ttf</file>
+        <file>fonts/Arizonia/Arizonia-Regular.ttf</file>
+        <file>fonts/Calligraffitti/Calligraffitti-Regular.ttf</file>
+        <file>fonts/Caveat/Caveat-Regular.ttf</file>
+        <file>fonts/Dr_Sugiyama/DrSugiyama-Regular.ttf</file>
+        <file>fonts/Gochi_Hand/GochiHand-Regular.ttf</file>
+        <file>fonts/Herr_Von_Muellerhoff/HerrVonMuellerhoff-Regular.ttf</file>
+        <file>fonts/La_Belle_Aurore/LaBelleAurore-Regular.ttf</file>
+        <file>fonts/Mr_Bedfort/MrBedfort-Regular.ttf</file>
+        <file>fonts/Mr_Dafoe/MrDafoe-Regular.ttf</file>
+        <file>fonts/Mrs_Saint_Delafield/MrsSaintDelafield-Regular.ttf</file>
+        <file>fonts/Nothing_You_Could_Do/NothingYouCouldDo-Regular.ttf</file>
+        <file>fonts/Qwigley/Qwigley-Regular.ttf</file>
+        <file>fonts/Rock_Salt/RockSalt-Regular.ttf</file>
+        <file>fonts/Sacramento/Sacramento-Regular.ttf</file>
+        <file>fonts/Yellowtail/Yellowtail-Regular.ttf</file>
+        <file>fonts/Zeyada/Zeyada-Regular.ttf</file>
+    </qresource>
+</RCC>
